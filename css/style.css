@@ -622,8 +622,8 @@ ol {
   bottom: -2px;
   height: 636px;
   width: 636px;
-  border-left: 1px solid #333333;
-  border-top: 1px solid #333333;
+  border-left: 1px solid #4e5e4f;
+  border-top: 1px solid #4e5e4f;
   content: "";
   z-index: -1;
 }
@@ -633,8 +633,8 @@ ol {
 .counter__item.second__item:before {
   left: -316px;
   bottom: -65px;
-  border-right: 1px solid #333333;
-  border-bottom: 1px solid #333333;
+  border-right: 1px solid #4e5e4f;
+  border-bottom: 1px solid #4e5e4f;
   border-left: none;
   border-top: none;
 }
@@ -644,8 +644,8 @@ ol {
 .counter__item.four__item:before {
   left: -380px;
   bottom: -380px;
-  border-right: 1px solid #333333;
-  border-bottom: 1px solid #333333;
+  border-right: 1px solid #4e5e4f;
+  border-bottom: 1px solid #4e5e4f;
   border-left: none;
   border-top: none;
 }
