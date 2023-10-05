@@ -762,7 +762,7 @@ ol {
   margin-bottom: 0;
 }
 .blog__item.latest__item:hover {
-  border: 1px solid #222222 !important;
+  border: 1px solid #24e700 !important;
   background: url(../img/blog/blog-1.jpg);
   background-size: cover;
 }
